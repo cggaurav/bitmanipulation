@@ -6,4 +6,5 @@ const clearBit = (num, position) => {
   	return (num & ~mask)
 }
 
-console.log(clearBit(10001000, 7))
+// 10001000
+console.log(clearBit(136, 7).toString(2))
