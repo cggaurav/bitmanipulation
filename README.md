@@ -1,4 +1,4 @@
-## Bit Manipulation
+## Bit Manipulation 101 class
 
 * Test kth bit is set: num & (1 << k) != 0.
 * Set kth bit: num |= (1 << k).
