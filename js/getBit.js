@@ -1,0 +1,6 @@
+// console.log(getBit(5, 0))
+// console.log(getBit(5, 1))
+// console.log(getBit(5, 2))
+// console.log(getBit(5, 3))
+// console.log(getBit(5, 4))
+// console.log(getBit(5, 6))
